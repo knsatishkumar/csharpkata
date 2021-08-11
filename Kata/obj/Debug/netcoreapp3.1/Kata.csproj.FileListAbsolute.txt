@@ -1,0 +1,8 @@
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.deps.json
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.dll
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\bin\Debug\netcoreapp3.1\Kata.pdb
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.AssemblyInfoInputs.cache
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.AssemblyInfo.cs
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.csproj.CoreCompileInputs.cache
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.dll
+D:\AsusLaptop\code\samples\katacode\Kata\Kata\obj\Debug\netcoreapp3.1\Kata.pdb

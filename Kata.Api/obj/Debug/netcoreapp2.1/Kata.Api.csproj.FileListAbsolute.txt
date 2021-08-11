@@ -1,0 +1,4 @@
+D:\AsusLaptop\code\samples\katacode\Kata\Kata.Api\obj\Debug\netcoreapp2.1\Kata.Api.csproj.AssemblyReference.cache
+D:\AsusLaptop\code\samples\katacode\Kata\Kata.Api\obj\Debug\netcoreapp2.1\Kata.Api.AssemblyInfoInputs.cache
+D:\AsusLaptop\code\samples\katacode\Kata\Kata.Api\obj\Debug\netcoreapp2.1\Kata.Api.AssemblyInfo.cs
+D:\AsusLaptop\code\samples\katacode\Kata\Kata.Api\obj\Debug\netcoreapp2.1\Kata.Api.csproj.CoreCompileInputs.cache
